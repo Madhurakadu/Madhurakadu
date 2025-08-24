@@ -49,8 +49,8 @@
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Email](mailto:your@email.com)  
+- [LinkedIn]((https://www.linkedin.com/in/madhura-kadu))  
+- [Email](mailto:madhurakadu533@gmail.com)  
 
 ---
 
