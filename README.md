@@ -49,7 +49,7 @@
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/madhura-kadu))  
+- [LinkedIn](https://www.linkedin.com/in/madhura-kadu)  
 - [Email](mailto:madhurakadu533@gmail.com)  
 
 ---
